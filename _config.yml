@@ -1,7 +1,5 @@
 title: Kids First Chicago Test Site
 description: A test GitHub Pages site
-baseurl: ""
+baseurl: "" # Leave empty for GitHub Pages root
 url: "https://rachelle-cho21.github.io/kids-first-website-test"
 theme: minima
-sass:
-  style: compressed
